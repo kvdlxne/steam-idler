@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+# User settings not necessarily related to the project.
+.idea/
+
+# Project settings.
+*.iml
+
+# Cargo and Rust
+# By default Cargo stores the output of a build into the "target" directory.
+# See: https://doc.rust-lang.org/cargo/guide/build-cache.html
+target/
