@@ -2,6 +2,9 @@
 # User settings not necessarily related to the project.
 .idea/
 
+# Project settings including the way the application should be launched etc.
+!.idea/runConfigurations/
+
 # Project settings.
 *.iml
 
